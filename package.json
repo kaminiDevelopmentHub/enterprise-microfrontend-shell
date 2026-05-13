@@ -24,9 +24,9 @@
     "webpack-cli": "^7.0.2"
   },
   "scripts": {
-  "start": "craco start",
-  "build": "craco build"
-},
+    "start": "craco start",
+    "build": "craco build"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
